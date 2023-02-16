@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Hasibix
-- 👀 I’m interested in coding, gaming, creating logos, editing pictures and making cool youtube videos
-- 🌱 I’m currently learning code
+- 👀 I’m interested in coding, gaming, graphics designing and working on my projects
+- ☕ I'm currently learning java programming.
 
 <!---
 Hasibix/Hasibix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
