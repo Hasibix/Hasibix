@@ -1,5 +1,3 @@
-![Logo](https://github.com/Hasibix/Hasibix/assets/73306991/490c2762-62bd-414c-a72e-19a5ae810fbe)
-
 # Hi, I’m Hasibix Hasib!
 
 I'm an independent coder, a student, an artist, a gamer and a stupid boi. I like to work on my personal projects.
