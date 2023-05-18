@@ -1,4 +1,4 @@
-![1080x1080](https://github.com/Hasibix/Hasibix/assets/73306991/ba003373-70d0-455c-a261-ab6a4d18fe5e)
+![Logo](https://github.com/Hasibix/Hasibix/assets/73306991/490c2762-62bd-414c-a72e-19a5ae810fbe)
 
 # Hi, I’m Hasibix Hasib!
 
