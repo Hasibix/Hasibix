@@ -1,6 +1,6 @@
 # Hi, I’m Hasibix Hasib!
 
-I'm a programmer, student, artist, gamer and a stupid human.
+I'm a programmer, student, artist, gamer and a stupid hoomin.
 
 ### My current projects:
 [HaOS](https://github.com/Hasibix-HaOS)
