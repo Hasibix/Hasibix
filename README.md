@@ -1,17 +1,8 @@
 # Hi, I’m Hasibix Hasib!
 
-I'm a programmer, student, artist, gamer and a stupid hoomin.
+I'm a programmer, student, artist, gamer and a silly human being.
 
-### My current projects:
-[HaOS](https://github.com/Hasibix-HaOS)
-
-[HasiBot's Quest (HQ)](https://github.com/Hasibix/Hasibix-HQ)
-
-[HasiBot](https://github.com/Hasibix/HasiBot)
-
-[HasiLWGDF](https://github.com/HasiLWGDF)
-
-### Other stuff:
+### Other stuff (dont ask why i have so many socials XD):
 [![Discord](https://www.google.com/s2/favicons?sz=16&domain=discord.com)](https://discord.com/users/764548989684940820)
 [![GitHub](https://www.google.com/s2/favicons?sz=16&domain=github.com)](https://github.com/Hasibix)
 [![Guilded](https://www.google.com/s2/favicons?sz=16&domain=guilded.gg)](https://guilded.gg/u/Hasibix)
