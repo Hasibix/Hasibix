@@ -1,4 +1,4 @@
-# Hi, I’m Hasibix Hasib!
+# Hi, I’m Hasibix Hasi!
 
 I'm a programmer, student, artist, gamer and a silly human being.
 
